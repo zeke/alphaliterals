@@ -1,0 +1,8 @@
+= Alphaliterals
+
+Alphaliterals are words whose letters are in alphabetical order. A little ruby script inspired by {a list of alphaliterals on wordnik.com}[http://www.wordnik.com/lists/alphaliterals]
+
+== Sample {SOWPODS}[http://en.wikipedia.org/wiki/SOWPODS] (Scrabble Tournament Wordlist) Results
+
+Found 69 alphaliterals with six or more letters:
+abbess, abcees, abhors, accent, accept, access, accloy, accost, acknow, addeem, addeems, adders, addios, adeems, adoors, afflux, agloos, almost, beefily, begilt, begins, begirt, beknot, bellow, bijoux, billow, billowy, biopsy, bloops, blotty, cellos, chikor, chikors, chills, chilly, chimps, chinos, chintz, chippy, chirrs, chitty, chivvy, choosy, choppy, cloops, clotty, deffly, dehort, dekkos, dikkop, dikkops, dimpsy, efflux, effort, ellops, fillos, floors, floosy, floppy, flossy, ghosty, gimmor, gimmors, gloops, gloopy, gloppy, glossy, hillos, knotty
